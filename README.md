@@ -1,6 +1,6 @@
 # Pacman
 ## Files
-- parse.py: Python script to parse input
+- parse.py: Input parser
 - p1.py: Random pacman vs 1 random ghost
 - p2.py: Pacman vs 1 random ghost
 - p3.py: Random pacman vs 2-4 random ghosts
