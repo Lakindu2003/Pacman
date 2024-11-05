@@ -5,8 +5,8 @@
 - p2.py: Pacman vs 1 random ghost
 - p3.py: Random pacman vs 2-4 random ghosts
 - p4.py: Pacman vs 2-4 random ghosts
-- **p5.py: Minimax pacman vs 2-4 minimax ghosts**
-- **p6.py: Expectimax pacman vs 2-4 random ghosts**
+- **p5.py**: Minimax pacman vs 2-4 minimax ghosts**
+- **p6.py**: Expectimax pacman vs 2-4 random ghosts**
 
 ## Key Features
 - Evaluation function
